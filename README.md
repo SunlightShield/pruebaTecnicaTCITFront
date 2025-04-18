@@ -1,6 +1,6 @@
 # Frontend - Prueba Técnica TCIT
 
-Este proyecto es una aplicación web desarrollada con **React** y **Redux Toolkit** que permite gestionar Posts (crear, listar, eliminar y filtrar por nombre). Forma parte de la prueba técnica para TCIT.
+Este proyecto es una aplicación web desarrollada con **React** y **Redux Toolkit** que permite gestionar Posts (crear, listar, eliminar y filtrar por nombre).
 
 ---
 
